@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my portfolio website!**
 
-- 🌱 I’m currently learning **Full-Stack development**
+- 🌱 I’m currently learning **Microservices with Spring Cloud**
 
-- 💬 Ask me about **C, Java, LibGDX**
+- 💬 Ask me about **C, Java, LibGDX, Angular, Spring Boot****
 
 - 📫 How to reach me **alegreav@gmail.com**
 
