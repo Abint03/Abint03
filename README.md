@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Microservices with Spring Cloud**
 
-- 💬 Ask me about **C, Java, LibGDX, Angular, Spring Boot****
+- 💬 Ask me about **C, Java, LibGDX, Angular, Spring Boot, Godot, Unity**
 
-- 📫 How to reach me **alegreav@gmail.com**
+- 📫 How to reach me: **alegreav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
