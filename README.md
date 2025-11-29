@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abigail</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abint03&label=Profile%20views&color=0e75b6&style=flat" alt="abint03" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website!**
-
-- 🌱 I’m currently learning **Microservices with Spring Cloud**
-
-- 💬 Ask me about **C, Java, LibGDX, Angular, Spring Boot, Godot, Unity**
-
-- 📫 How to reach me: **alegreav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
